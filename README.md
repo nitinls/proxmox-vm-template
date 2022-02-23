@@ -2,6 +2,7 @@
 
 https://www.rajaseelan.com/posts/proxmox-create-vm-template-ubuntu/
 
+https://vectops.com/2020/01/provision-proxmox-vms-with-ansible-quick-and-easy/
 
 Create a Proxmox VM Template for Ubuntu 20.04
 Sun, Oct 3, 2021
